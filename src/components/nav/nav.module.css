@@ -1,0 +1,15 @@
+.nav {
+    width: 65%;
+    height: 5%;
+    /* background-color: blue; */
+}
+
+.ul {
+    /* background-color: red; */
+    flex-grow: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
